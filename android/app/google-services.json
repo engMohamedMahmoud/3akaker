@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087211053100",
+    "firebase_url": "https://akaker-cc2d5-default-rtdb.firebaseio.com",
+    "project_id": "akaker-cc2d5",
+    "storage_bucket": "akaker-cc2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087211053100:android:0f3120106b13c92b4f7189",
+        "android_client_info": {
+          "package_name": "com.appnormal.aakaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087211053100-oq8mui4eeemaci14s2k460l6fpdd8qol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appnormal.aakaker",
+            "certificate_hash": "9269c27d210926f34966cb9eda8d209a02992bad"
+          }
+        },
+        {
+          "client_id": "1087211053100-seehbuoo17rh48u8021egu4vs5irkupd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGM_PK6m-Nj38Pph8UuGiMhlFtIhIZWUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087211053100-seehbuoo17rh48u8021egu4vs5irkupd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
